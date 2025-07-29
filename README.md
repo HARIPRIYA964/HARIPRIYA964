@@ -23,7 +23,7 @@ I am a  MERN Stack  Developer.Also iam  recent BSC Computer Science graduate fro
 ---
 [![](https://visitcount.itsvg.in/api?id=HARIPRIYA964&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 **HARIPRIYA964/HARIPRIYA964** is a ✨ _special_ ✨ repository because its `README.md` HARIPRIYA964 appears on your GitHub profile.
 
 
